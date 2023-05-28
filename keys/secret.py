@@ -1,2 +1,2 @@
 sender = ""
-sender="key16length"
+sender_key =""
